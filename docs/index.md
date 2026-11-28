@@ -8,7 +8,7 @@ Levent Alpöge's Lean proof of the Riemann Hypothesis (17M) has 175,187 modules.
 - Code and instructions: https://github.com/riemann-at-home/riemann-at-home
 - Discuss on Hacker News: https://news.ycombinator.com/item?id=50594006
 - Raw data: https://riemann-at-home.github.io/riemann-at-home/data.json (format: CONTRACT.md in the repository)
-- Updated: 2026-11-28T14:57:29Z
+- Updated: 2026-11-28T15:12:18Z
 
 ## Totals
 
@@ -95,25 +95,25 @@ Levent Alpöge's Lean proof of the Riemann Hypothesis (17M) has 175,187 modules.
 ### Building now
 
 - Nico: 788 of 803 300K modules (98.1%), Apple M5
-- cardoso-neto (github.com/cardoso-neto): 167,782 of 175,187 17M modules (95.8%), AMD Ryzen 7 7700X 8-Core Processor
+- cardoso-neto (github.com/cardoso-neto): 168,527 of 175,187 17M modules (96.2%), AMD Ryzen 7 7700X 8-Core Processor
+- bendian64 (github.com/bendian64): 681 of 803 300K modules (84.8%), POWER9 (raw), altivec supported
 - bha: 614 of 803 300K modules (76.5%), 11th Gen Intel(R) Core(TM) i5-11600K @ 3.90GHz
-- tgragnato (github.com/tgragnato): 102,392 of 175,187 17M modules (58.4%), Intel(R) Celeron(R) J6413 @ 1.80GHz
-- Stephen Frost: 91,768 of 175,187 17M modules (52.4%), AMD Ryzen AI 7 350 w/ Radeon 860M
-- DenysPiven (github.com/DenysPiven): 90,664 of 175,187 17M modules (51.8%), Apple M4 Pro
-- bendian64 (github.com/bendian64): 350 of 803 300K modules (43.6%), POWER9 (raw), altivec supported
-- alvarezjuan (github.com/alvarezjuan): 73,394 of 175,187 17M modules (41.9%), 13th Gen Intel(R) Core(TM) i9-13900H
-- 6DammK9 (github.com/6DammK9): 69,235 of 175,187 17M modules (39.5%), Intel(R) Xeon(R) Platinum 8375C CPU @ 2.90GHz
+- tgragnato (github.com/tgragnato): 102,501 of 175,187 17M modules (58.5%), Intel(R) Celeron(R) J6413 @ 1.80GHz
+- Stephen Frost: 92,814 of 175,187 17M modules (53.0%), AMD Ryzen AI 7 350 w/ Radeon 860M
+- DenysPiven (github.com/DenysPiven): 91,433 of 175,187 17M modules (52.2%), Apple M4 Pro
+- alvarezjuan (github.com/alvarezjuan): 74,065 of 175,187 17M modules (42.3%), 13th Gen Intel(R) Core(TM) i9-13900H
+- 6DammK9 (github.com/6DammK9): 70,953 of 175,187 17M modules (40.5%), Intel(R) Xeon(R) Platinum 8375C CPU @ 2.90GHz
+- Francois Beaune: 64,941 of 175,187 17M modules (37.1%), AMD Ryzen Threadripper 3970X 32-Core Processor
 - rcland12 (github.com/rcland12): 64,772 of 175,187 17M modules (37.0%), AMD EPYC 7742 64-Core Processor
-- Francois Beaune: 64,734 of 175,187 17M modules (37.0%), AMD Ryzen Threadripper 3970X 32-Core Processor
 - Warren Jennings: 54,272 of 175,187 17M modules (31.0%), Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
-- jimjones: 49,039 of 175,187 17M modules (28.0%), Apple M2 Pro
-- rogeressig: 30,238 of 175,187 17M modules (17.3%), Apple M4 Pro
-- Akelodaima (github.com/Akelodaima): 29,390 of 175,187 17M modules (16.8%), Intel(R) Core(TM) Ultra 7 258V
+- jimjones: 49,101 of 175,187 17M modules (28.0%), Apple M2 Pro
+- rogeressig: 31,035 of 175,187 17M modules (17.7%), Apple M4 Pro
+- Akelodaima (github.com/Akelodaima): 29,416 of 175,187 17M modules (16.8%), Intel(R) Core(TM) Ultra 7 258V
 - brothberg (github.com/brothberg): 116 of 803 300K modules (14.4%), Apple M1
 - framiere (github.com/framiere): 21,921 of 175,187 17M modules (12.5%), Apple M4 Pro
 - Carl Aza: 26 of 803 300K modules (3.2%), Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
 - Aerlinger (github.com/Aerlinger): 3,793 of 175,187 17M modules (2.2%), Apple M5 Pro
-- beammeupscottyyy (github.com/beammeupscottyyy): 1,898 of 175,187 17M modules (1.1%), Apple M3 Pro
+- beammeupscottyyy (github.com/beammeupscottyyy): 2,139 of 175,187 17M modules (1.2%), Apple M3 Pro
 - sergey9295 (github.com/sergey9295): 441 of 175,187 17M modules (0.3%), AMD Ryzen 5 5600X 6-Core Processor
 - luvchurchill (github.com/luvchurchill): 1 of 175,187 17M modules (0.0%), Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz
 
@@ -197,7 +197,7 @@ Signatures so far: 63, in the order they first finished.
 - Connell McGinley (first finished 2026-11-26, added from their build record): 300K BUILT
 - ic (first finished 2026-11-26, added from their build record): 300K BUILT
 - bendian64 (first finished 2026-11-26, added from their build record): 17M BUILT, 300K BUILT, EXPORT REPRODUCED
-- JustinAzoff (first finished 2026-11-26, added from their build record): 17M BUILT, 300K BUILT, EXPORT REPRODUCED
+- JustinAzoff (first finished 2026-11-26, added from their build record): 17M BUILT, 300K BUILT, EXPORT REPRODUCED, 300K EXPORT REPRODUCED
 - yum-food (first finished 2026-11-26, added from their build record): 300K BUILT
 - Francois Beaune (first finished 2026-11-26, added from their build record): 300K BUILT
 - Xuarig (first finished 2026-11-27, added from their build record): 300K BUILT
